@@ -11,7 +11,5 @@ vim.opt.wrap = true -- Aquí activas el wrap
 
 require("config.lazy")
 
---Hola mundo.
-
 -- Cargar la configuración de DAP
 require("plugins.dap")
